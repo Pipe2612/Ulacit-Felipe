@@ -13,3 +13,4 @@ grep búsqueda archivo
 grep -l Log ./*
  ls –l
  ln nombre_de_archivo abc.txt
+ln –s Bash.sh NewBash.sh
