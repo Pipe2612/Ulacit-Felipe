@@ -8,3 +8,4 @@ yay -S google-chrome
 uname -a
 sudo useradd -m nombredeusuario -G wheel -p passworddelusuario
  cd,  mkdir, chmod, chown, rmdir, rm
+grep [opciones] pattern [ARCHIVO]
