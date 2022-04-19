@@ -10,3 +10,4 @@ sudo useradd -m nombredeusuario -G wheel -p passworddelusuario
  cd,  mkdir, chmod, chown, rmdir, rm
 grep [opciones] pattern [ARCHIVO]
 grep búsqueda archivo
+grep -l Log ./*
