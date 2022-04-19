@@ -11,3 +11,5 @@ sudo useradd -m nombredeusuario -G wheel -p passworddelusuario
 grep [opciones] pattern [ARCHIVO]
 grep búsqueda archivo
 grep -l Log ./*
+ ls –l
+ ln nombre_de_archivo abc.txt
